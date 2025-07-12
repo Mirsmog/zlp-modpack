@@ -1,13 +1,5 @@
 {
   "version": "1.0.0",
-  "minecraft_version": "1.21.7",
-  "fabric_loader": "0.16.14",
-  "java_version": "21.0.2",
-  "server": {
-    "name": "ZLP.ONL",
-    "ip": "play.zlp.onl",
-    "port": 25565
-  },
   "mods": [
     { "name": "bastion-1.21.7-1.0.jar", "sha256": "d780cfdff5aa8463b409f797f7c16c80b9cedbc8cd816705c4416d3dd7ac24f9", "required": true, "size": 9394490 },
     { "name": "cloth-config-19.0.147-fabric.jar", "sha256": "d8a6dca9d0dad1fe44622a3c6a0348641934e3943c8d425a26f112bce6debfa2", "required": true, "size": 1149126 },
