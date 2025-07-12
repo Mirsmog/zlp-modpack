@@ -1,0 +1,27 @@
+{
+  "version": "1.0.0",
+  "minecraft_version": "1.21.7",
+  "fabric_loader": "0.16.14",
+  "java_version": "21.0.2",
+  "server": {
+    "name": "ZLP.ONL",
+    "ip": "play.zlp.onl",
+    "port": 25565
+  },
+  "mods": [
+    { "name": "bastion-1.21.7-1.0.jar", "sha256": "d780cfdff5aa8463b409f797f7c16c80b9cedbc8cd816705c4416d3dd7ac24f9", "required": true, "size": 9394490 },
+    { "name": "cloth-config-19.0.147-fabric.jar", "sha256": "d8a6dca9d0dad1fe44622a3c6a0348641934e3943c8d425a26f112bce6debfa2", "required": true, "size": 1149126 },
+    { "name": "fabric-api-0.129.0+1.21.7.jar", "sha256": "db5f16fe1aa577f46d363bf8d7a97054249f0962d82d0ef18d19ca4d5e162768", "required": true, "size": 2212353 },
+    { "name": "ferritecore-8.0.0-fabric.jar", "sha256": "2b90bf00c2a5808c3c539712a55691191f8716d5bfa6eefaba35e9c4c5a28eea", "required": true, "size": 79653 },
+    { "name": "ImmediatelyFast-Fabric-1.11.1+1.21.7.jar", "sha256": "7ac79492f67eb0c3c455815b4f93c5742ce3785a69799941d39b8f48223b449b", "required": true, "size": 193177 },
+    { "name": "iris-fabric-1.9.1+mc1.21.7.jar", "sha256": "0e6bd470311cc938b992e9065e0f94a3f603b68b5dfcde25102c64b8733b69bd", "required": true, "size": 2722729 },
+    { "name": "lithium-fabric-0.18.0+mc1.21.7.jar", "sha256": "b94c17105a99699be2912bf62db7e34fe2f0263247d4982e440cf0a6613026a1", "required": true, "size": 792413 },
+    { "name": "modmenu-15.0.0-beta.3.jar", "sha256": "c5785c03fe1f075563c8f108bbd638750eeb4a11b351a829317fa1acca1299ee", "required": true, "size": 1076199 },
+    { "name": "moreculling-fabric-1.21.6-1.4.0-beta.1.jar", "sha256": "1ad8ee1463cfcbef028cf8af4ef8b3fc1807f3514cd55a192b0623e3df6abe05", "required": true, "size": 347230 },
+    { "name": "NoChatReports-FABRIC-1.21.7-v2.14.0.jar", "sha256": "11013770c89249042844e6e6c0e34e8bd9b13fb4c602e46ccd2ee450b7b14c47", "required": true, "size": 249152 },
+    { "name": "placeholder-api-2.7.1+1.21.6.jar", "sha256": "85ab9f70773fffe90972289ae44d033e8235d2148743263433e44262c217e0dd", "required": true, "size": 259767 },
+    { "name": "sodium-fabric-0.6.13+mc1.21.6.jar", "sha256": "2e67812980688bf33447052c9ddfb820d07967bb3a3443f7865687fa0869118d", "required": true, "size": 1443665 },
+    { "name": "voicechat-fabric-1.21.7-2.5.33.jar", "sha256": "afdb0e368b83260d9e5c2787c18f1db119ab0674ef9fa828ecf3b8db556e0e9c", "required": true, "size": 7419930 }
+  ],
+  "configs": []
+} 
